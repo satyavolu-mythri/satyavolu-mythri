@@ -59,3 +59,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/satyavolu-mythri/satyavolu-mythri/snake-output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/satyavolu-mythri/satyavolu-mythri/blob/output/github-contribution-grid-snake.gif)
+
